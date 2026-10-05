@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CricScore.API/CricScore.API.csproj" />
+    <Project Path="src/CricScore.Application/CricScore.Application.csproj" />
+    <Project Path="src/CricScore.Domain/CricScore.Domain.csproj" />
+    <Project Path="src/CricScore.Infrastructure/CricScore.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CricScore.IntegrationTests/CricScore.IntegrationTests.csproj" />
+    <Project Path="tests/CricScore.UnitTests/CricScore.UnitTests.csproj" />
+  </Folder>
+</Solution>
